@@ -1,0 +1,18 @@
+body {
+  background-color: red;
+}
+/* Basic styles */
+h2 {
+  position: relative;
+  float: left;
+  color: white;
+  font-family: "Inconsolata", Consolas, monospace;
+  font-size: 4em;
+  top: 20%;
+  right: 12%;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
